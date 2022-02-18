@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img align="right" src="https://valar-hitcounter.invoke.valar.dev/count?name=fabianh001&style=minimal">
 
 <!--
 **fabianh001/fabianh001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
